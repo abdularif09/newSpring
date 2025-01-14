@@ -1,0 +1,17 @@
+{
+  "mobile_brand": "Samsung",
+  "mobile_model": "Galaxy S23",
+  "mobile_manufacture_date": "2023-01-15",
+  "mobile_original_price": "1200.00",
+  "mobile_purchased_price": "1000.00",
+  "mobile_purchase_date": "2023-02-01",
+  "mobile_imei_one": "123456789012345",
+  "mobile_imei_two": "543210987654321",
+  "mobile_owner_name": "John Doe",
+  "mobile_ram_size": "8GB",
+  "mobile_rom_size": "256GB",
+  "mobile_owner_contact_number": "+1234567890",
+  "mobile_owner_aadhaar_number": "123456789012",
+  "mobile_sale_date": "2024-01-01",
+  "mobile_sale_price": "1500.00"
+}
